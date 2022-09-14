@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garridinsi&label=Visitas%20al%20perfil&color=830065&style=flat-square" alt="garridinsi" /> </p>
 
-- 🔭 Actualmente estoy **haciendo las FCT de la FP**
+- 🔭 Actualmente estoy **trabajando**
 
 - 🌱 Estoy aprendiendo **Java, AEM, Liferay**
 
@@ -11,7 +11,7 @@
 
 - 📝 A veces subo fotos a [https://blogferroviario.es](https://blogferroviario.es)
 
-- 💬 Preguntame sobre **WordPress, Linux, HTML**
+- 💬 Preguntame sobre **WordPress, Linux**
 
 - ⚡ Fun fact **I like trains!**
 
