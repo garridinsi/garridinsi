@@ -16,8 +16,9 @@
 - ⚡ Fun fact **I like trains!**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://social.ferrocarril.net/@garridinsi" target="blank"><img align="center" src="https://joinmastodon.org/logos/wordmark-white-text.svg" alt="Mastodon" height="30" width="40" /></a>
+<p align="center">
+<a href="https://social.ferrocarril.net/@garridinsi" target="blank"><img align="center" src="https://joinmastodon.org/logos/wordmark-white-text.svg" alt="Mastodon" height="30" width="40" /></a></p>
+<p align="center">
 <a href="https://linkedin.com/in/garridinsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/garridinsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
