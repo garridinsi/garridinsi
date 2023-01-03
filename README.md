@@ -1,7 +1,6 @@
 <h1 align="center">Hola hola 👋, soy Eneko</h1>
 <h3 align="center">Una persona a la que le gusta cacharrear mucho</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garridinsi&label=Visitas%20al%20perfil&color=830065&style=flat-square" alt="garridinsi" /> </p>
 
 - 🔭 Actualmente estoy **trabajando**
 
