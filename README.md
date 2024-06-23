@@ -2,9 +2,6 @@
 <h3 align="center">Una persona a la que le gusta cacharrear mucho</h3>
 
 
-- 🔭 Actualmente estoy **trabajando**
-
-- 🌱 Estoy aprendiendo **Java, AEM, Liferay**
 
 - 👨‍💻 Puedes ver mis proyectos en [https://enekogarrido.com](https://enekogarrido.com)
 
